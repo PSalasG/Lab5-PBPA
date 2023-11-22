@@ -2,13 +2,13 @@
 # Pablo Salas Gómez, C27061
 
 # Diagrama UML
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/gWbJRjj/Diagrama-UML-lab5.webp" alt="Diagrama-UML-lab5" border="0" /></a>
 
 # Dependencias
-argparse==1.4.0
-Pillow==10.1.0
-mathplotlib==3.8.0
-opencv-python==4.8.0
+* argparse==1.4.0
+* Pillow==10.1.0
+* mathplotlib==3.8.0
+* opencv-python==4.8.0
 
 # Uso del programa
 Para ejecutar el programa es necesario hacerlo desde la terminal incluyendo los argumentos necesarios, los cuales son "--biblioteca" y "--imagen", tambien se puede usar "-h" para mostrar la documentación sobre como usar el programa.
